@@ -29,6 +29,6 @@ After
 ## References
 Open3D: https://github.com/IntelVCL/Open3D
 PCD (Point Cloud Data) File Format: https://pointclouds.org/documentation/tutorials/pcd_file_format.html
-Code : https://ichi.pro/python-de-tengun-kara-3-d-messhu-o-seiseisuru-tame-no-5-suteppu-gaido-60176041760954
+Code : https://ichi.pro/python-de-tengun-kara-3-d-messhu-o-seiseisuru-tame-no-5-suteppu-gaido-60176041760954, https://engineer-mole.tistory.com/248
 
 
