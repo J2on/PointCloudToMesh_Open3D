@@ -5,13 +5,7 @@
 
 This project provides a Python 3.9 code to convert PCD (Point Cloud Data) files into OBJ (OBJect) mesh files using Open3D.
 
-Before
-![image](https://github.com/J2on/PointCloudToMesh_Open3D/assets/63008127/cd9ac440-3533-494c-afdf-9da7b8d35be9)
-
-
-After
-![image](https://github.com/J2on/PointCloudToMesh_Open3D/assets/63008127/3feb0d96-43b9-4571-bd29-8c65472e2fe6)
-
+![image](https://github.com/J2on/PointCloudToMesh_Open3D/assets/63008127/805ee1af-d105-4275-8a0d-b16427febda8)
 
 ## Usage
 
