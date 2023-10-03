@@ -20,7 +20,6 @@ This project provides a Python 3.9 code to convert PCD (Point Cloud Data) files 
    pip install open3d
    pip install numpy
 
-
 ## References
 Open3D: https://github.com/IntelVCL/Open3D
 PCD (Point Cloud Data) File Format: https://pointclouds.org/documentation/tutorials/pcd_file_format.html
